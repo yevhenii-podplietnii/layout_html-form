@@ -1,1 +1,12 @@
-/* styles go here */
+
+.input:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.form {
+  margin-bottom: 20px;
+}
+
+.button {
+  margin-top: 20px;
+}
