@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,wBACE,kBACF,CAEA,MACE,kBACF,CAEA,QACE,eACF","file":"style.bf1e43ea.css","sourceRoot":"..\\src","sourcesContent":["\n.input:not(:last-child) {\n  margin-bottom: 10px;\n}\n\n.form {\n  margin-bottom: 20px;\n}\n\n.button {\n  margin-top: 20px;\n}\n"]}
